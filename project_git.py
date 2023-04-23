@@ -1,4 +1,4 @@
-#importing random
+# importing random
 import random
 
 #Creating rules 
